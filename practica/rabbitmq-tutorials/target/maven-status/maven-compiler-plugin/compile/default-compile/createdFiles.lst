@@ -1,0 +1,4 @@
+com\example\rabbitmq_tutorials\messaging\Receiver.class
+com\example\rabbitmq_tutorials\RabbitmqTutorialsApplication.class
+com\example\rabbitmq_tutorials\config\RabbitMQConfig.class
+com\example\rabbitmq_tutorials\messaging\Sender.class
