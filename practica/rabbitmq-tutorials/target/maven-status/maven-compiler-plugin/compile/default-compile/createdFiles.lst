@@ -1,4 +1,7 @@
-com\example\rabbitmq_tutorials\messaging\Receiver.class
-com\example\rabbitmq_tutorials\RabbitmqTutorialsApplication.class
+com\example\rabbitmq_tutorials\model\OrderConsumer.class
 com\example\rabbitmq_tutorials\config\RabbitMQConfig.class
-com\example\rabbitmq_tutorials\messaging\Sender.class
+com\example\rabbitmq_tutorials\model\dto\OrderRequest.class
+com\example\rabbitmq_tutorials\controller\OrderController.class
+com\example\rabbitmq_tutorials\service\OrderService.class
+com\example\rabbitmq_tutorials\RabbitmqTutorialsApplication.class
+com\example\rabbitmq_tutorials\service\impl\OrderServiceImpl.class
