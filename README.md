@@ -31,7 +31,7 @@ Este repositorio contiene la evidencia técnica, laboratorios, prácticas, evalu
 ├── proyecto-formativo/     # Proyecto transversal del semestre
 ├── desafios/               # Desafíos aplicados
 └── evaluaciones/           # Entregables de evaluaciones
-    ├── ep1/
-    ├── ep2/
-    ├── ep3/
+    ├── ev1/
+    ├── ev2/
+    ├── ev3/
     └── eft/
